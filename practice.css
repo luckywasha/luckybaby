@@ -1,0 +1,49 @@
+/* Set the font family and size for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: aqua;
+  }
+  
+  /* Center the text within the <p> tag */
+  p {
+    text-align: left;
+  }
+  
+  /* Add some padding to the <td> tag */
+  td {
+    padding: 10px;
+  }
+  
+  /* Style the <label> tag */
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  /* Style the <input> tag */
+  input[type="number"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Style the <button> tag */
+  button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: #050505;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Style the output <td> tag */
+  #output1 {
+    font-weight: bold;
+  }
+  tr {
+    width: 180;
+    height: 20;
+  }
+  
